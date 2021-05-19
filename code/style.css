@@ -3,6 +3,10 @@
     font-size: 17px;
 }
 
+body{
+    background-color: #eed59d;
+}
+
 /* manu de navegação*/
 #logo{
     border-radius: 10px;
@@ -22,6 +26,8 @@
     color: #332920;
 }
 
+/*carrossel*/
+
 #myCarousel{
     text-align: center;
     
@@ -31,6 +37,20 @@ img{
     border-radius: 10px;
 }
 
-body{
-    background-color: #191919;
+
+/*rodapé*/
+.footer{
+    background-color: #eed59d;
+}
+
+.footer img{
+    width: 30px;
+    height: auto;
+    margin-top: 10px;
+}
+.footer span{
+    margin-bottom: 10px;
+}
+.footer a{
+    text-decoration: none;
 }
