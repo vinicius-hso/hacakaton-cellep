@@ -18,9 +18,9 @@ Projeto Front-End utilizando HTML e CSS com páginas estáticas.
 __Requisitos__
 
 * [x] Menu de Navegação
-* [ ] História da banda
+* [x] História da banda
 * [ ] Integrantes
 * [ ] Calendário das apresentações
 * [ ] Informações de contato
 * [ ] Formulário de contato
-* [ ] Links das redes sociais
+* [x] Links das redes sociais
