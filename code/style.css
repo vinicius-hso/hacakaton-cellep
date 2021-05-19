@@ -1,5 +1,9 @@
 *{
+<<<<<<< HEAD
     font-family: Arial, Helvetica, sans-serif;
+=======
+    font-family: MariageD;
+>>>>>>> fa776344ae61124f1f179d0d92820337504fdccd
     font-size: 17px;
 }
 
@@ -8,6 +12,15 @@ body{
 }
 
 /* manu de navegação*/
+.botao{
+    border-color: #332920;
+    border-radius: 10px;
+}
+.icone{
+    background-color: #eed59d;
+    color: #332920;
+}
+
 #logo{
     border-radius: 10px;
 }
