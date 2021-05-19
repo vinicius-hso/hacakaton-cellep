@@ -46,6 +46,13 @@ img{
     border-radius: 10px;
 }
 
+
+#hist {
+    margin-top: 20px;
+    border: 1px solid #332920;
+} 
+
+
 /*rodapé*/
 .footer{
     background-color: #eed59d;
@@ -62,14 +69,4 @@ img{
 .footer a{
     text-decoration: none;
 }
-
-#hist {
-    display: inline;
-    text-align: center;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-left: 20px;
-    margin-right: 20px;
-    width: 100%;
-} 
 
