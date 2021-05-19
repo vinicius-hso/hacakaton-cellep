@@ -10,8 +10,22 @@
 #nav a:hover{
     background-color: #332920;
     color: #eed59d;
+    border-radius: 10px;
 }
 
 #nav li a{
     color: #332920;
+}
+
+#myCarousel{
+    text-align: center;
+    
+}
+
+img{
+    border-radius: 10px;
+}
+
+body{
+    background-color: #191919;
 }
