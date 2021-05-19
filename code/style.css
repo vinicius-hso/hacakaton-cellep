@@ -1,8 +1,17 @@
+/* manu de navegação*/
 #logo{
     border-radius: 10px;
 }
 
 #nav{
-    color: #F5EBAE;
+    color:  #332920;
+    background-color: #eed59d;
 }
-#F5EBAE
+#nav a:hover{
+    background-color: #332920;
+    color: #eed59d;
+}
+
+#nav li a{
+    color: #332920;
+}
