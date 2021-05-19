@@ -25,7 +25,7 @@ body{
     color:  #332920;
     background-color: #eed59d;
 }
-#nav a:hover{
+#nav li a:hover{
     background-color: #332920;
     color: #eed59d;
     border-radius: 10px;
@@ -46,12 +46,19 @@ img{
     border-radius: 10px;
 }
 
-
+/* Seção historio*/
 #hist {
     margin-top: 20px;
-    border: 1px solid #332920;
 } 
 
+.musicos{
+    width: 60%;
+    margin-top: 10px;
+}
+.biografia{
+    text-align: center;
+    margin-top: 10px;
+}
 
 /*rodapé*/
 .footer{
