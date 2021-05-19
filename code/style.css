@@ -1,5 +1,5 @@
 *{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: MariageD;
     font-size: 17px;
 }
 
@@ -8,6 +8,15 @@ body{
 }
 
 /* manu de navegação*/
+.botao{
+    border-color: #332920;
+    border-radius: 10px;
+}
+.icone{
+    background-color: #eed59d;
+    color: #332920;
+}
+
 #logo{
     border-radius: 10px;
 }
