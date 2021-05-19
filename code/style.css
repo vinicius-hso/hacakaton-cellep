@@ -1,3 +1,8 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+
 /* manu de navegação*/
 #logo{
     border-radius: 10px;
@@ -14,4 +19,13 @@
 
 #nav li a{
     color: #332920;
+    border-radius: 10px;
+}
+
+
+/*rodapé*/
+.footer{
+    background-color: #eed59d;
+    color: #332920;
+    
 }
