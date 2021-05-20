@@ -35,17 +35,6 @@ body{
     color: #332920;
 }
 
-/*carrossel*/
-
-#myCarousel{
-    text-align: center;
-    
-}
-
-img{
-    border-radius: 10px;
-}
-
 /* Seção historia*/
 #hist {
     margin-top: 20px;
