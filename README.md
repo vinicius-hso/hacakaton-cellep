@@ -29,4 +29,4 @@ __Requisitos__
 
 ![](https://github.com/vinicius-hso/hacakaton-cellep/blob/main/phillzr-page.gif)
 
-* Página hospedada no Vercel: [](https://hacakaton-cellep.vercel.app/)
+* Página hospedada no Vercel: [link](https://hacakaton-cellep.vercel.app/)
