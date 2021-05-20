@@ -60,6 +60,18 @@ img{
     margin-top: 10px;
 }
 
+/*seção de contato*/
+
+.contato{
+    background-color:#eed59d;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+
+
+
 /*rodapé*/
 .footer{
     background-color: #eed59d;
