@@ -49,21 +49,32 @@ img{
 /* Seção historia*/
 #hist {
     margin-top: 20px;
+    background-color: #332920;
+    color: #eed59d;
 } 
 
-
-#intg{
-    margin-top: 20px;
-}
 
 .musicos{
     width: 60%;
     margin-top: 40px;
+    border-radius: 50%;
+    border: 2px solid #eed59d;
+    box-shadow: 0 0 10px #eed59d;
 }
 .biografia{
     text-align: center;
     margin-top: 10px;
+    color: #eed59d;
 }
+
+/* seção integrantes */
+ #intg{
+    background-color: #332920;
+ }
+
+
+
+
 
 /*seção da agenda*/
 
@@ -86,12 +97,12 @@ img{
 
 .jzdbox1 {
   width:315px; 
-  background:#332f2e; 
+  background:#332920; 
   border-radius:5px; 
   overflow:hidden; 
   display:block; 
   margin-bottom:10px; 
-  box-shadow:0 0 10px #201d1c; 
+  box-shadow:0 0 10px #332920; 
   margin:0 auto; 
   margin-top:20px;
 }
@@ -110,7 +121,7 @@ img{
 .jzdcalt {
   font:18px 'Helvetica'; 
   font-weight:700; 
-  color:#f7f3eb; 
+  color:#eed59d; 
   display:block; 
   margin:18px 0 0 0; 
   text-transform:uppercase; 
@@ -121,7 +132,7 @@ img{
 .jzdcal span {
   font:11px 'Roboto'; 
   font-weight:400; 
-  color:#f7f3eb; 
+  color:#eed59d; 
   text-align:center; 
   width:42px; 
   height:42px; 
@@ -137,7 +148,7 @@ img{
 }
 
 .circle {
-  border:1px solid #f7f3eb; 
+  border:1px solid #eed59d; 
   box-sizing:border-box!important; 
   border-radius:200px!important;
 }
@@ -150,8 +161,8 @@ div[data-title]:hover:after {
   position:absolute; 
   margin:0 0 100px; 
   background:#282423; 
-  border:1px solid #f7f3eb; 
-  color:#f7f3eb; 
+  border:1px solid #eed59d; 
+  color:#eed59d; 
   padding:5px; 
   z-index:9999; 
   min-width:150px; 
@@ -162,7 +173,7 @@ div[data-title]:hover:after {
 /*seção de contato*/
 
 #contato{
-    background-color: #282423;
+    background-color: #332920;
     color: #eed59d;
     margin-top: 20px;
     padding-top: 20px;
@@ -185,7 +196,7 @@ div[data-title]:hover:after {
 .botaoSub{
     border-color: #eed59d;
     background-color: #eed59d;
-    color: #282423;
+    color: #332920;
     border-radius: 17px;
 }
 
