@@ -20,7 +20,7 @@ __Requisitos__
 * [x] Menu de Navegação
 * [x] História da banda
 * [x] Integrantes
-* [ ] Calendário das apresentações
-* [ ] Informações de contato
-* [ ] Formulário de contato
+* [x] Calendário das apresentações
+* [x] Informações de contato
+* [x] Formulário de contato
 * [x] Links das redes sociais
